@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Services;
+namespace App\Services;
 
-use App\Http\Repositories\BookRepository;
+use App\Repositories\BookRepository;
 
 class BookService
 {
